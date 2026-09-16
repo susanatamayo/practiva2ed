@@ -1,0 +1,7 @@
+|ejercicio1
+Entrada[0] => comb.IN1
+Entrada[1] => X.IN0
+Entrada[2] => X.IN1
+Y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
