@@ -4,7 +4,7 @@ input [2:0] iSelect;
 output [6:0] oDisplay1,oDisplay2,oDisplay3,oDisplay4,oDisplay5,oDisplay6;
 wire [3:0] dato1, dato2, dato3, dato4, dato5, dato6;
 wire [5:0] display_n;
-wire [3:0] iA = 4'h5;
+wire [3:0] iA = 4'h8;
 mydeco3to6 IC01(display_n,iSelect);
 mymux4to4 IC02(dato1,iA,display_n[0]);
 mymux4to4 IC03(dato2,iA,display_n[1]);
