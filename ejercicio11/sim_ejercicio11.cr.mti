@@ -1,0 +1,36 @@
+C:/Universidad/practiva2ed/ejercicio11/mydeco3to6.v {1 {vlog -work work C:/Universidad/practiva2ed/ejercicio11/mydeco3to6.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mydeco3to6
+
+Top level modules:
+	mydeco3to6
+
+} {} {}} C:/Universidad/practiva2ed/ejercicio11/mydeco_display7.v {1 {vlog -work work C:/Universidad/practiva2ed/ejercicio11/mydeco_display7.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mydeco_display7
+
+Top level modules:
+	mydeco_display7
+
+} {} {}} C:/Universidad/practiva2ed/ejercicio11/Ejercicio1.v {1 {vlog -work work C:/Universidad/practiva2ed/ejercicio11/Ejercicio1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ejercicio1
+
+Top level modules:
+	Ejercicio1
+
+} {} {}} C:/Universidad/practiva2ed/ejercicio11/mymux4to4.v {1 {vlog -work work C:/Universidad/practiva2ed/ejercicio11/mymux4to4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mymux4to4
+
+Top level modules:
+	mymux4to4
+
+} {} {}} C:/Universidad/practiva2ed/ejercicio11/tb_Ejercicio1.v {1 {vlog -work work C:/Universidad/practiva2ed/ejercicio11/tb_Ejercicio1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Ejercicio1
+
+Top level modules:
+	tb_Ejercicio1
+
+} {} {}}
