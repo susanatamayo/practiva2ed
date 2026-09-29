@@ -19,3 +19,5 @@ module alu5 (
                        (S == 4'b1110) ? {1'b0, 4'b0000, menor} : // item E
                                         6'b000000;               // no asignadas
 endmodule
+
+https://youtu.be/gZOTqeshXj8?si=nI1_iGUTIAuV5mND
